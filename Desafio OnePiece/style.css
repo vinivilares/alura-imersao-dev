@@ -1,0 +1,9 @@
+body {
+    font-family: monospace;
+    min-height: 550px;
+    background-image: url('https://i.pinimg.com/originals/61/16/a7/6116a7226dd5c7ceeaa983008f8a1774.jpg');
+    background-color:  cadetblue;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+}
